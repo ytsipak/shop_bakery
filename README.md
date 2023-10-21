@@ -1,4 +1,3 @@
-![bakeryLanding](https://github.com/ytsipak/shop_bakery/assets/122310792/0dc10d24-5fe9-40cc-aaec-f9762e21239d)<!-- Project Name -->
 ## [Modern bakery "SHOP bakery"]([ytsipak.github.io/shop_bakery/](https://ytsipak.github.io/shop_bakery/)).
 
 <!-- ABOUT THE PROJECT -->
