@@ -1,4 +1,4 @@
-## [Modern bakery "SHOP bakery"]([ytsipak.github.io/shop_bakery/](https://ytsipak.github.io/shop_bakery/)).
+## Modern bakery "SHOP bakery"
 
 <!-- ABOUT THE PROJECT -->
 ### Project Description
@@ -10,5 +10,6 @@ It is not my own project. I followed the instructions of my mentor.
 [![Technologies](https://skillicons.dev/icons?i=html,css,js,sass&perline=2)](https://skillicons.dev)
 
 <!-- Images -->
+[Live](https://ytsipak.github.io/shop_bakery/)
 ![bakeryLanding](https://github.com/ytsipak/shop_bakery/assets/122310792/972f2900-6ba9-41bc-9e93-90d1e76035ef)
 
