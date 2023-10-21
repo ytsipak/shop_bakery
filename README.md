@@ -10,6 +10,6 @@ It is not my own project. I followed the instructions of my mentor.
 [![Technologies](https://skillicons.dev/icons?i=html,css,js,sass)](https://skillicons.dev)
 
 <!-- Images -->
-### [Live Website] (https://ytsipak.github.io/shop_bakery/)
+### [Live Website](https://ytsipak.github.io/shop_bakery/)
 ![bakeryLanding](https://github.com/ytsipak/shop_bakery/assets/122310792/972f2900-6ba9-41bc-9e93-90d1e76035ef)
 
